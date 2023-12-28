@@ -1,0 +1,31 @@
+h1 {
+  color: black;
+  font-size: 32px;
+  text-align: left;
+  font-style: bold;
+}
+ 
+h2 {
+  color: black;
+  font-size: 16px;
+  text-align: left;
+  font-style: bold;
+}
+ 
+p {
+  color: black;
+  font-size: 12px;
+  text-align: left;
+  font-style: normal;
+}
+
+ul {
+	list-style-type: circle;
+}
+
+dl {
+  color: red;
+  text-align: left;
+  font-style: normal;
+  font-size: 28px;
+}
